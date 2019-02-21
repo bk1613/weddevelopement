@@ -1,0 +1,40 @@
+h1 {
+   font-family: "Arial";
+   text-align: center;
+}
+
+h3 {
+   font-family: "Trebuchet MS";
+
+}
+
+body {
+   background-color: orange
+
+}
+
+p {
+
+   font-style: italic
+}
+
+a {
+   font-weight: bold
+}
+
+.redtext{
+  color: red;
+}
+
+#menu{
+  color: yellow
+}
+
+#highlight{
+  background-color: yellow;
+  color: orange;
+}
+
+span {
+  background-color: aqua;
+}
